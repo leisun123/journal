@@ -170,7 +170,7 @@
   padding-left: 22px !important;
   padding: 3px;
   margin: 5px 0 5px 0;
-  background-image: url('/assets/search-icon');
+  background-image: url('../img/search-icon.png');
   background-repeat: no-repeat;
 }
 /* line 35, ../sass/_search.scss */
